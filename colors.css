@@ -1,0 +1,15 @@
+
+:root {
+    /* Use as background */
+    --colorLightPurple: #f3f5ff;    
+    /* Use predominantly for text */
+    --colorDarkPurpleText: #0b0a33;    
+    /* Use for most buttons */
+    --colorDominantButtonColour: #5335d9;    
+    /* Use for text on buttons */
+    --colorDominantButtonTextColour: #ffffff;    
+    /* Use for arrows */
+    --colorArrowColour: #4457ff;    
+    /* Use for normal body text */
+    --colorBodyTextColour: #7a7d9c;    
+}
